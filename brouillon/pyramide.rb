@@ -1,3 +1,4 @@
+#Reprends ton programme exo_15.rb et fais un programme pyramide.rb qui montera au lieu de descendre :
 puts "Salut, bienvenue dans ma super pyramide ! Entre 1 et 25, combien d'étages veux-tu ?"
 print ">"
 number = gets.to_i

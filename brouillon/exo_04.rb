@@ -1,3 +1,4 @@
+#Écris un programme exo_04.rb qui demande son année de naissance à l'utilisateur, puis qui ressort l'année où l'utilisateur aura 100 ans.
 puts "Bonjour, quelle année es-tu né(e)?"
 print ">"
 user_year = gets.chomp
